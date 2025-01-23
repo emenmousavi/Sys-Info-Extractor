@@ -30,7 +30,7 @@ Sys-Info-Extractor is a simple tool designed to extract system information. It w
 1. Navigate to the directory containing the script.
 2. Run the script:
    ```bash
-   python sys_info_extractor_kali.py
+   python sysinfo.py
    ```
 3. The tool will automatically check your OS and provide the relevant information.
 
