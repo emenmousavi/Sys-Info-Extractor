@@ -36,7 +36,7 @@ Sys-Info-Extractor is a simple tool designed to extract system information. It w
 
 ### Output:
 - For Windows: Installed programs.
-- For Kali Linux: Running processes.
+- For Linux: Running processes.
 - Python packages will also be displayed.
 
 ### Example Output:
