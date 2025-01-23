@@ -43,20 +43,6 @@ Sys-Info-Extractor is a simple tool designed to extract system information. It w
 - For Linux: Shows Running processes.
 - Python packages will also be displayed.
 
-### Example Output:
-```bash
-Welcome to Sys-Info-Extractor!
-Created by: Emen Mousavi
-==================================================
-What this tool does:
-  - Shows the programs installed on Windows (if applicable)
-  - Lists the running processes on Linux (including Kali)
-  - Shows the Python packages installed
-==================================================
-Let's get started!
-==================================================
-```
-
 ### Contributing:
 Feel free to fork the project, create a pull request, or open issues for any feature requests or bugs. Contributions are always welcome!
 
